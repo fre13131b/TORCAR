@@ -64,3 +64,8 @@ On configure
 make
 make install  <= copy les executable dans la target
 
+Pour l'executer
+'/home/fred/TORCS/bin/torcs'
+
+
+

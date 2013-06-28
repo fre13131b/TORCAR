@@ -18,11 +18,11 @@
 #
 ##############################################################################
 
-prefix=/home/berni/torcs_bin
+prefix=/home/fred/TORCS
 exec_prefix=${prefix}
 
 BINDIR=${exec_prefix}/bin
-LIBDIR=${exec_prefix}/lib64/torcs
+LIBDIR=${exec_prefix}/lib/torcs
 DATAROOTDIR=${prefix}/share
 DATADIR=$DATAROOTDIR/games/torcs
 VARDIR=${prefix}/var/games/torcs
