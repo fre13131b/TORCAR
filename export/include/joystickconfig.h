@@ -1,1 +1,1 @@
-/home/fred/DEV_Repo/torcs-1.3.4/src/libs/confscreens/joystickconfig.h
+/home/fred/TORCS_Repo/torcs-1.3.4/src/libs/confscreens/joystickconfig.h

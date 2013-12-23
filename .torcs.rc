@@ -1,2 +1,2 @@
-TORCS_BASE = /home/fred/DEV_Repo/torcs-1.3.4
-MAKE_DEFAULT = /home/fred/DEV_Repo/torcs-1.3.4/Make-default.mk
+TORCS_BASE = /home/fred/TORCS_Repo/torcs-1.3.4
+MAKE_DEFAULT = /home/fred/TORCS_Repo/torcs-1.3.4/Make-default.mk
